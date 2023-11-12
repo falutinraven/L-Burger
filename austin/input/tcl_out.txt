@@ -1,0 +1,2 @@
+cubs_num	crn	tc	pre-trans-bal	date_of_trans	trans-amount	final-bal
+123456789	I-am_a-crn-4597	2	69.42	4/20/1969	-20	49.42

@@ -1,0 +1,3 @@
+crn	payment_date	trans_amount	ultra-final-bal
+I-am_a-crn-4597	4/20/1969	-20	45.42
+I-am_a-crn-4597	4/20/1969	-4	45.42
